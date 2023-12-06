@@ -234,7 +234,7 @@ int main() {
 
         else if (strcmp(userInput, "MOVE") == 0) {
             move(currentRoom);
-            if (checkComplete(currentRoom, inventory) == true) {
+            if (winCon(currentRoom, inventory) == true) {
                 cout << "Finally out." << endl;
                 running = false;
                 exit(0);
