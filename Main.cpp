@@ -5,6 +5,21 @@
  
  Note: The actual game comes from my Java project
  Credit to Tejas, Levi for help with header files 
+
+ Win Condition: Get the key from the Warden's Office and get to the exit.
+
+ Items: 
+Key (Warden's Office)
+Bar of Soap (Showers
+Spoon (Kitchen) 
+Book (Start of Game) 
+Basketball (Basketball Courts)
+
+Have to type in command and then item/direction
+Examples:
+MOVE South
+GET Key
+DROP Book
  
  */
 
